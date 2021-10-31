@@ -1,4 +1,4 @@
-# Go tour backend
+# Go travel backend
 Live Demo: https://go-travel-36354.web.app/
 
 - This website is about Travelling
